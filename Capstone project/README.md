@@ -12,7 +12,8 @@
 
 ## How to Run
 	At its core, depending on the code running program at your disposal, all you will need is the TicTacTwo.java file,
-	though you may also require the .class file as well. The test file is provided for testing purposes.
+	though you may also require the .class file as well, both of which are provided in the TicTacTwoComplete.zip file. 
+	The test file is provided for testing purposes, naturally.
 	
 	[A picture of the program upon finishing a game.]  (Screenshot.png)
 
