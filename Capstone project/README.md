@@ -15,7 +15,7 @@
 	though you may also require the .class file as well, both of which are provided in the TicTacTwoComplete.zip file. 
 	The test file is provided for testing purposes, naturally.
 	
-What follows is an example of the code in action:
+[What follows is an example of the code in action:] (https://github.com/ant0296/CSCI_1105_IntroToProgramming_Coursework/blob/master/Capstone%20project/Screenshot.png)
 <img src="screenshot.png" /> 
 
 ## Code Example
