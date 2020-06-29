@@ -16,7 +16,7 @@
 	The test file is provided for testing purposes, naturally.
 	
 What follows is an example of the code in action:
-<img src="screenshot.png" /> 
+<img src="Screenshot.png" /> 
 
 ## Code Example
 The following piece of code is from the 'verticalCheck' method of the program, and is responsible for checking 
