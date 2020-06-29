@@ -38,8 +38,6 @@ int count = 0;
 	}
 	return false;
 }	
-
-
 ```
 
 ## Tests
