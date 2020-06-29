@@ -25,19 +25,20 @@ confident in displaying the solution.
 
 ```
 int count = 0;
-String key = player;
-for (int a = 0; a < gameBoard[size - 1].length; a++) {
-	for (int b = 0; b < gameBoard[a].length; b++) {
-		if (gameBoard[b][a].contains(key)) {
-			count++;
+	for (int a = 0; a < gameBoard.length; a++) {
+		for (int b = 0; b < gameBoard[a].length; b++) {
+			if (gameBoard[b][a].contains(player)) {
+				count++;
+			}
 		}
+		if (count == size) {
+			return true;
+		}
+		count = 0;
 	}
-}
-if (count == size) {
-	return true;
-}
-else return false;
+	return false;
 }	
+
 
 ```
 
