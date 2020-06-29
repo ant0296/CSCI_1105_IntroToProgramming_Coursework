@@ -16,7 +16,7 @@
 	The test file is provided for testing purposes, naturally.
 	
 	What follows is an example of the code in action:
-<img src="screenshot.png" /> 
+https://github.com/ant0296/CSCI_1105_IntroToProgramming_Coursework/blob/master/Capstone%20project/Screenshot.png
 
 ## Code Example
 The following piece of code is from the 'verticalCheck' method of the program, and is responsible for checking 
