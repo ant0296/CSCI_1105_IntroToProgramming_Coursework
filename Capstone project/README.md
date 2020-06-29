@@ -15,15 +15,17 @@
 	though you may also require the .class file as well, both of which are provided in the TicTacTwoComplete.zip file. 
 	The test file is provided for testing purposes, naturally.
 	
-[What follows is an example of the code in action:] (https://github.com/ant0296/CSCI_1105_IntroToProgramming_Coursework/blob/master/Capstone%20project/Screenshot.png)
+What follows is an example of the code in action:
 <img src="screenshot.png" /> 
 
 ## Code Example
 The following piece of code is from the 'verticalCheck' method of the program, and is responsible for checking 
 the columns of the board for a possible winning move. This proved difficult to impliment at first, so I feel 
-confident in displaying my solution.
+confident in displaying the solution.
 
 ```
+int count = 0;
+String key = player;
 for (int a = 0; a < gameBoard[size - 1].length; a++) {
 	for (int b = 0; b < gameBoard[a].length; b++) {
 		if (gameBoard[b][a].contains(key)) {
@@ -36,6 +38,7 @@ if (count == size) {
 }
 else return false;
 }	
+
 ```
 
 ## Tests
