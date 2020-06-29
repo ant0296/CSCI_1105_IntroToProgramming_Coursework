@@ -13,7 +13,7 @@ I aim to call some attention back to it, as it can still be a challenging game.
 ## How to Run
 At its core, depending on the code running program at your disposal, all you will need is the TicTacTwo.java file,
 though you may also require the .class file as well, both of which are provided in the TicTacTwoComplete.zip file. 
-The test file is provided for testing purposes, naturally.
+The test file inside is provided for testing purposes, naturally.
 	
 What follows is an example of the code in action:
 <img src="Screenshot.png" /> 
