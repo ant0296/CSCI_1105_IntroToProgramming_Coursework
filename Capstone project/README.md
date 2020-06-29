@@ -15,7 +15,7 @@
 	though you may also require the .class file as well, both of which are provided in the TicTacTwoComplete.zip file. 
 	The test file is provided for testing purposes, naturally.
 	
-	[A picture of the program upon finishing a game.]  (Screenshot.png)
+	[A picture of the program upon finishing a game.]  <img src="screenshot.png" /> 
 
 ## Code Example
 The following piece of code is from the 'verticalCheck' method of the program, and is responsible for checking 
